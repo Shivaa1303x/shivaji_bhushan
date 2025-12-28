@@ -1,3 +1,4 @@
 # shivaji_bhushan
-This is my first Repository.
-Author Shivaji Bhushan
+This is my first Git Repository.
+<br>
+Author-Shivaji Bhushan.
